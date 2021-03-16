@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9945" started-at="2021-03-15T22:42:18Z" finished-at="2021-03-15T22:42:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9945" started-at="2021-03-15T22:42:18Z" finished-at="2021-03-15T22:42:28Z">
+      <class name="com.qa.api.gorest.tests.CreateUserTest">
+        <test-method status="PASS" signature="postUserAPITest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@65e2dbf3]" name="postUserAPITest" duration-ms="5328" started-at="2021-03-15T22:42:19Z" data-provider="getUserData" finished-at="2021-03-15T22:42:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sdsd@sdf.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUserAPITest -->
+        <test-method status="PASS" signature="postUserAPITest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@65e2dbf3]" name="postUserAPITest" duration-ms="1483" started-at="2021-03-15T22:42:25Z" data-provider="getUserData" finished-at="2021-03-15T22:42:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gajend]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fsdfs@sfds.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUserAPITest -->
+        <test-method status="PASS" signature="postUserAPITest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@65e2dbf3]" name="postUserAPITest" duration-ms="1016" started-at="2021-03-15T22:42:26Z" data-provider="getUserData" finished-at="2021-03-15T22:42:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Isha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sdfdtr@gmai.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUserAPITest -->
+        <test-method status="PASS" signature="postUserAPITest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.api.gorest.tests.CreateUserTest@65e2dbf3]" name="postUserAPITest" duration-ms="964" started-at="2021-03-15T22:42:27Z" data-provider="getUserData" finished-at="2021-03-15T22:42:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ghgh@dfd.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Active]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUserAPITest -->
+      </class> <!-- com.qa.api.gorest.tests.CreateUserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
